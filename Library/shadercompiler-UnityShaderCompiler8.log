@@ -1,0 +1,68 @@
+Base path: '/home/fraun/Unity/Hub/Editor/2020.1.0b16/Editor/Data', plugins path '/home/fraun/Unity/Hub/Editor/2020.1.0b16/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=18301 outsize=13832 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18301 outsize=13987 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18301 outsize=7044 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12109 outsize=8922 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12109 outsize=6596 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12109 outsize=3489 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12109 outsize=4761 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=72903 outsize=11732 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=72903 outsize=10449 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4442 outsize=5441 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4442 outsize=6378 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1900 outsize=6630 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11985 outsize=5918 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11985 outsize=6496 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11985 outsize=3256 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11985 outsize=3216 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11985 outsize=3179 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=6114 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5092 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5276 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5208 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5543 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5090 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=4848 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=2900 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=3311 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=2771 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=2547 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=2273 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=3264 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=2743 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=2904 ok=1
+
+Quitting shader compiler process
