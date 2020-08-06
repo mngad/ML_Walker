@@ -92,11 +92,11 @@ void start(){
 
       time += Time.deltaTime;
       SetReward(-0.05f);
-      SetReward(body.transform.position.x *0.005f);
-      SetReward(bodyRB.velocity.x *0.1f);
-      if(body.transform.position.y >= -1.2f){
-        SetReward(0.03f);
-      }
+      SetReward(body.transform.position.x *0.01f);
+      //SetReward(bodyRB.velocity.x *0.1f);
+      // if(body.transform.position.y >= -0.5f){
+      //   SetReward(0.05f);
+      // }
 
 
 
@@ -123,7 +123,7 @@ void start(){
       }
 
       if(bc.checkpoint == true){
-        SetReward(0.5f);
+        SetReward(1f);
         bc.checkpoint = false;
       }
 
@@ -132,10 +132,7 @@ void start(){
         EndEpisode();
       }
 
-      // if(bodyRB.velocity.magnitude > 0.2){
-      //   SetReward(0.1f);
-      //
-      // }
+
 
       //add rewards here
 

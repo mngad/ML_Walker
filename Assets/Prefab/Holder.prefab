@@ -898,7 +898,7 @@ MonoBehaviour:
   agentParameters:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
-  MaxStep: 5000
+  MaxStep: 2500
   initRot: {x: 0, y: 0, z: 0, w: 0}
   initPos: {x: 0, y: 0, z: 0}
   initPosllu: {x: 0, y: 0, z: 0}
@@ -959,4 +959,4 @@ MonoBehaviour:
   m_BehaviorName: walker
   TeamId: 0
   m_UseChildSensors: 1
-  m_ObservableAttributeHandling: 2
+  m_ObservableAttributeHandling: 0

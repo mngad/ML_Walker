@@ -1,0 +1,46 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1596703780",
+        "python_version": "3.7.8 (default, Jul 19 2020, 19:19:40) \n[GCC 10.1.0]",
+        "command_line_arguments": "/home/fraun/.local/bin//mlagents-learn trainer_config.yaml --run-id=walker_no_checkpoints_2 --resume",
+        "mlagents_version": "0.18.0",
+        "mlagents_envs_version": "0.18.0",
+        "communication_protocol_version": "1.0.0",
+        "tensorflow_version": "2.2.0",
+        "end_time_seconds": "1596703783"
+    },
+    "total": 3.066551523996168,
+    "count": 1,
+    "self": 0.00712129200110212,
+    "children": {
+        "run_training.setup": {
+            "total": 0.0057632409952930175,
+            "count": 1,
+            "self": 0.0057632409952930175
+        },
+        "TrainerController.start_learning": {
+            "total": 3.0536669909997727,
+            "count": 1,
+            "self": 0.0003181899955961853,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 3.053302281005017,
+                    "count": 1,
+                    "self": 3.053302281005017
+                },
+                "trainer_threads": {
+                    "total": 1.319996954407543e-06,
+                    "count": 1,
+                    "self": 1.319996954407543e-06
+                },
+                "TrainerController._save_model": {
+                    "total": 4.520000220509246e-05,
+                    "count": 1,
+                    "self": 4.520000220509246e-05
+                }
+            }
+        }
+    }
+}
